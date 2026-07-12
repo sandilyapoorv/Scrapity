@@ -1,0 +1,9 @@
+{
+	"id": "YbQG8dnnLlxlYYc",
+	"json": "{\"id\":\"YbQG8dnnLlxlYYc\",\"url\":\"https://www.indianbusinessdirectory.com/lucknow/\",\"loadedUrl\":\"https://www.indianbusinessdirectory.com/lucknow/\",\"uniqueKey\":\"https://www.indianbusinessdirectory.com/lucknow\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":1,\"errorMessages\":[\"Error: Request blocked - received 403 status code.\\n    at CheerioCrawler._throwOnBlockedRequest (/home/primal/Sandilyapoorv/Ai-Automation/frontend/node_modules/@crawlee/basic/internals/basic-crawler.js:910:19)\\n    at CheerioCrawler._runRequestHandler (/home/primal/Sandilyapoorv/Ai-Automation/frontend/node_modules/@crawlee/http/internals/http-crawler.js:324:22)\\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\\n    at async CheerioCrawler._runRequestHandler (/home/primal/Sandilyapoorv/Ai-Automation/frontend/node_modules/@crawlee/cheerio/internals/cheerio-crawler.js:153:9)\\n    at async wrap (/home/primal/Sandilyapoorv/Ai-Automation/frontend/node_modules/@apify/timeout/cjs/index.cjs:54:21)\"],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-07-12T04:14:47.754Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 1,
+	"uniqueKey": "https://www.indianbusinessdirectory.com/lucknow",
+	"url": "https://www.indianbusinessdirectory.com/lucknow/"
+}

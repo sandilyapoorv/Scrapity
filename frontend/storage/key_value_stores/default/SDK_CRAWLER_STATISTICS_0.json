@@ -1,0 +1,41 @@
+{
+  "requestsFinished": 5,
+  "requestsFailed": 0,
+  "requestsRetries": 1,
+  "requestsFailedPerMinute": 0,
+  "requestsFinishedPerMinute": 75,
+  "requestMinDurationMillis": 1092,
+  "requestMaxDurationMillis": 3317,
+  "requestTotalFailedDurationMillis": 0,
+  "requestTotalFinishedDurationMillis": 11959,
+  "crawlerStartedAt": "2026-07-12T04:14:44.128Z",
+  "crawlerFinishedAt": "2026-07-12T04:14:47.968Z",
+  "statsPersistedAt": "2026-07-12T04:14:47.968Z",
+  "crawlerRuntimeMillis": 3996,
+  "crawlerLastStartTimestamp": 1783829683972,
+  "requestRetryHistogram": [
+    4,
+    1
+  ],
+  "statsId": 0,
+  "requestAvgFailedDurationMillis": null,
+  "requestAvgFinishedDurationMillis": 2392,
+  "requestTotalDurationMillis": 11959,
+  "requestsTotal": 5,
+  "requestsWithStatusCode": {
+    "403": 1,
+    "404": 1
+  },
+  "errors": {},
+  "retryErrors": {
+    "/home/primal/Sandilyapoorv/Ai-Automation/frontend/node_modules/@crawlee/basic/internals/basic-crawler.js:910:19": {
+      "missing error code": {
+        "Error": {
+          "Request blocked - received 403 status code.": {
+            "count": 1
+          }
+        }
+      }
+    }
+  }
+}

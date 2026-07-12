@@ -1,0 +1,9 @@
+{
+	"id": "VujakXVoLgLz8OY",
+	"json": "{\"id\":\"VujakXVoLgLz8OY\",\"url\":\"https://lucknow.idbf.in/\",\"loadedUrl\":\"https://lucknow.idbf.in/\",\"uniqueKey\":\"https://lucknow.idbf.in\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-07-12T04:14:47.898Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://lucknow.idbf.in",
+	"url": "https://lucknow.idbf.in/"
+}

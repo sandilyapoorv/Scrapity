@@ -1,0 +1,136 @@
+{
+  "usableSessionsCount": 5,
+  "retiredSessionsCount": 1,
+  "sessions": [
+    {
+      "id": "session_O5j5QIff09",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2026-07-12T05:04:44.357Z",
+      "createdAt": "2026-07-12T04:14:44.356Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_5xITAlccst",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "PHPSESSID",
+            "value": "5b32fee503b0b7e6cadc070be4a79570",
+            "domain": "www.sansadhan.com",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2026-07-12T04:14:46.891Z",
+            "lastAccessed": "2026-07-12T04:14:46.891Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2026-07-12T05:04:44.722Z",
+      "createdAt": "2026-07-12T04:14:44.722Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_FHNCNHiqeZ",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2026-07-12T05:04:44.727Z",
+      "createdAt": "2026-07-12T04:14:44.727Z",
+      "usageCount": 3,
+      "maxUsageCount": 50,
+      "errorScore": 7
+    },
+    {
+      "id": "session_mQk8TPe29P",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2026-07-12T05:04:44.734Z",
+      "createdAt": "2026-07-12T04:14:44.734Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_xtCqmNas3L",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2026-07-12T05:04:44.760Z",
+      "createdAt": "2026-07-12T04:14:44.760Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_w4VpkTrTWJ",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2026-07-12T05:04:46.672Z",
+      "createdAt": "2026-07-12T04:14:46.672Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    }
+  ]
+}
